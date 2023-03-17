@@ -1,0 +1,10 @@
+build/
+.waf3*
+.waf*
+.lock*
+*.pfx
+*.so
+*.vpk
+/bin/
+.classpath
+.project
