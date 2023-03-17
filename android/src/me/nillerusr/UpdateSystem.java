@@ -1,6 +1,6 @@
 package me.nillerusr;
 
-import com.valvesoftware.source.mod.R;
+import com.valvesoftware.source.hl2sb.R;
 
 import android.content.*;
 import java.io.*;
